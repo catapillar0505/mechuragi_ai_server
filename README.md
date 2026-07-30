@@ -236,5 +236,5 @@ GitHub Actions가 `main` / `dev` 브랜치 push 시 자동 실행됩니다.
 
 - 🐦 [mechuragi_main_server (포크)](https://github.com/catapillar0505/mechuragi_main_server) — Spring Boot 메인 백엔드 (기여 요약 포함)
 - 💻 [mechuragi_client (포크)](https://github.com/catapillar0505/mechuragi_client) — Next.js 웹 클라이언트
-- 🏗️ [mechuragi_infra](https://github.com/teamMechuragi/mechuragi_infra) — Terraform · Ansible · OpenResty 게이트웨이 (기여 100%)
+- 🏗️ [mechuragi_infra (포크)](https://github.com/catapillar0505/mechuragi_infra) — Terraform · Ansible · OpenResty 게이트웨이 (기여 100%)
 - 🤖 [팀 원본 저장소](https://github.com/teamMechuragi/mechuragi_ai_server)
