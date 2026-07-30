@@ -13,7 +13,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-🌐 **서비스**: [mechuragi.site](https://mechuragi.site) · 📹 **시연 영상**: [YouTube Shorts](https://youtube.com/shorts/QZbuvk-MRn8?feature=share)
+📹 **시연 영상**: [YouTube Shorts](https://youtube.com/shorts/QZbuvk-MRn8?feature=share)
 
 > 이 저장소는 [teamMechuragi/mechuragi_ai_server](https://github.com/teamMechuragi/mechuragi_ai_server)의 포크로,
 > **김진아([@catapillar0505](https://github.com/catapillar0505))의 기여를 중심으로 정리한 포트폴리오 문서**입니다.
