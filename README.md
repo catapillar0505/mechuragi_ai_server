@@ -45,7 +45,7 @@ CloudFront → OpenResty Gateway (Lua JWT 검증)
 ```
 
 > 추천 요청은 Main Server를 거치지 않고 게이트웨이에서 AI 서버로 직행합니다.
-> k6 부하 테스트로 Legacy(메인 서버 경유) 대비 **처리량 +32%, p95 -45%**를 검증하고 채택한 구조입니다.
+> k6 부하 테스트로 Legacy(메인 서버 경유) 대비 **처리량 +46%, p95 -45%**를 검증하고 채택한 구조입니다.
 > ([상세 분석 보기](https://github.com/catapillar0505/mechuragi_main_server#2-k6-부하-테스트로-증명한-게이트웨이-구조-개선--direct-vs-legacy-97))
 
 ---
